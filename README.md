@@ -1,4 +1,5 @@
 # vuemorphic
+## Vue Components library based on the concept of Neumorphism
 
 ## Project setup
 ```
