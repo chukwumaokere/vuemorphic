@@ -1,4 +1,5 @@
 # Resources
+https://vuetailwind.com/components/card/
 1) https://vue-styleguidist.github.io/docs/GettingStarted.html
 2) https://dev.to/saeeddev/why-i-made-a-react-components-library-based-on-the-concept-on-neumorphism-ml1 
 3) https://github.com/mrsaeeddev/neumorphic-ui 
